@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain<br>🌱 I’m currently learning Blockchain and Hyperledger<br>💬 Ask me about smart contracts, IPFS, and Web3 architectures<br>⚡ Fun fact I love building real-world solutions using decentralized technology!
+🔭 I’m currently working on
+Building full-stack web applications and blockchain projects using React, Node.js, AWS, and Solidity.
+
+👯 I’m looking to collaborate on
+Open-source projects in AI, Blockchain, Cloud Computing, and Full-Stack Development.
+
+🤝 I’m looking for help with
+System Design, DevOps, and contributing to large-scale open-source projects.
+
+🌱 I’m currently learning
+Data Structures & Algorithms, AWS Cloud, AI/ML, and Advanced Backend Development.
+
+💬 Ask me about
+C++, JavaScript, React, Node.js, Blockchain, AWS, Git, and REST APIs.
+
+⚡ Fun fact
+I enjoy turning ideas into real-world software and I'm always exploring new technologies.
 
 
 ## 🌐 Socials:
